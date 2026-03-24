@@ -1,0 +1,23 @@
+gomoku-game/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── Board.tsx
+│   │   ├── Game.tsx
+│   │   └── Controls.tsx
+│   ├── ai/
+│   │   ├── ai.ts
+│   │   └── minimax.ts
+│   ├── types/
+│   │   └── game.ts
+│   ├── App.tsx
+│   ├── App.css
+│   └── index.tsx
+├── package.json
+├── tsconfig.json
+├── .gitignore
+├── README.md
+└── .github/workflows/
+    └── deploy.yml
